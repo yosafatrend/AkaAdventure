@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7548695577bb53241a71baad5a1f7894, type: 3}
+  m_Name: Ultah
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: d3280c06054c1d2489f5480ad8d9790c, type: 2}
+    dialogue: '.....'
+  - speaker: {fileID: 11400000, guid: 55548127aeab73443a581c8ecc1a776c, type: 2}
+    dialogue: Hepi berdey tu u, mi and him laiks u, u luk laik a monke, u belong in
+      de zu
+  - speaker: {fileID: 11400000, guid: c3a890045e0d436459d3b4c8cd394211, type: 2}
+    dialogue: 'HBD BANG ASADF HADFGDSJ ADSFDS JSJKGHJH
+
+      SADUADFU KASJLKSGf'
